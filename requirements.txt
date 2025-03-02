@@ -7,3 +7,14 @@ matplotlib
 streamlit
 scikeras
 nltk
+
+
+# commands to run project
+
+# cd testenv
+# cd scripts
+# ./activate
+
+# cd..
+# cd..
+# py app1.py
